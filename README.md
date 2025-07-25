@@ -5,6 +5,21 @@ TracePackets is an desktop application that allows you to capture and analyze ht
 - Analyze packet headers and payloads
 - Inspect Individual packets for detailed information such as source, destination, protocol, headers, and payloads, etc.
 
+
+### Preview
+
+- Capture packets in real time & inspect individual packets
+![Packets Preview](images/preview/packets.png)
+
+
+- Filter packets to find specific requests or responses
+![Filter Preview](images/preview/filter.png)
+
+
+- Save packets data when application is closed
+![Quit Preview](images/preview/quit.png)
+
+
 ## Dependencies
 - Python 3.6 or higher
 
